@@ -1,4 +1,3 @@
-
 <meta charset="utf-8">
 <meta name="description" content="Download your manual: Free user guides for all brands and devices!"/>
 <meta name="author" content="Avarix">
@@ -6,6 +5,6 @@
 <meta name="language" content="en">
 <meta name="google-site-verification" content="Fdb3h6i9VSbRysXMwdteA4E2tZnedlygCcIyJBADqKo" />
 
-<link href="{{ asset('/css/app.css') }}" rel="stylesheet">
+<link rel="stylesheet" href="{{ asset('resources/css/app.css') }}">
 
 <title>Download your manual: Free user guides for all brands and devices!</title>
