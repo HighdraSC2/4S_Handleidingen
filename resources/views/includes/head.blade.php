@@ -5,6 +5,6 @@
 <meta name="language" content="en">
 <meta name="google-site-verification" content="Fdb3h6i9VSbRysXMwdteA4E2tZnedlygCcIyJBADqKo" />
 
-<link rel="stylesheet" href="{{ asset('resources/css/app.css') }}">
+<link rel="stylesheet" href="{{ asset('css/app.css') }}">
 
 <title>Download your manual: Free user guides for all brands and devices!</title>
