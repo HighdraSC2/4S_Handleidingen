@@ -10,11 +10,10 @@
 
 <div class="container">
     <div class="row">
-
         <div class="col-md-8">
             @include('includes.header')
 
-            <ul class="breadcrumb">
+            <ul class="breadcrumb1">
                 <li><a href="/" title="{{ __('misc.home_alt') }}"
                        alt="{{ __('misc.home_alt') }}">{{ __('misc.home') }}</a></li>
                 @yield('breadcrumb')
@@ -32,7 +31,7 @@
 				</li>
                 @yield('breadcrumb')
             </ul>
-
+        
         </div>
 
         <div class="row">
