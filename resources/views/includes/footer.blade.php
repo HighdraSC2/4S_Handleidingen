@@ -1,6 +1,9 @@
 
 <footer>
 	© {{ __('misc.copyright') }}
+  <a href="overons.php" alt="overons">Over ons</a>
+  <a href="contact.php" alt="contact">Contact page</a> 
+  <a href="social.php" alt="sociallinks">Social links</a>
 </footer>
 
 
