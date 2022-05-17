@@ -65,3 +65,7 @@ Route::get('/category/{category_id}/{category_slug}/', [ProductCategoryControlle
 
 // Generate sitemaps
 Route::get('/generateSitemap/', [SitemapController::class, 'generate']);
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
